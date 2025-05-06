@@ -1,4 +1,4 @@
-# Prediksi Skor Ujian Mahasiswa Berdasarkan Gaya Hidup Menggunakan Model Deep Learning
+# Analisis Pengaruh Gaya Hidup terhadap Nilai Ujian Siswa Menggunakan Deep Learning Berbasis Multilayer Perceptron
 
 Pencapaian akademik mahasiswa dipengaruhi oleh berbagai faktor internal dan eksternal, termasuk kebiasaan gaya hidup sehari-hari. Beberapa penelitian sebelumnya telah menunjukkan hubungan antara durasi belajar, waktu tidur, penggunaan media sosial, dan performa akademik. Dengan kemajuan teknologi kecerdasan buatan, khususnya deep learning, kini memungkinkan untuk menganalisis hubungan non-linear yang kompleks antar variabel untuk tujuan prediksi. Penelitian ini bertujuan untuk membangun model prediktif berbasis deep learning untuk mengestimasi skor ujian mahasiswa berdasarkan pola gaya hidup mereka.
 

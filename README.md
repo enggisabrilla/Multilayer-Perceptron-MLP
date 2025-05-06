@@ -3,6 +3,8 @@
 Pencapaian akademik mahasiswa dipengaruhi oleh berbagai faktor internal dan eksternal, termasuk kebiasaan gaya hidup sehari-hari. Beberapa penelitian sebelumnya telah menunjukkan hubungan antara durasi belajar, waktu tidur, penggunaan media sosial, dan performa akademik. Dengan kemajuan teknologi kecerdasan buatan, khususnya deep learning, kini memungkinkan untuk menganalisis hubungan non-linear yang kompleks antar variabel untuk tujuan prediksi. Penelitian ini bertujuan untuk membangun model prediktif berbasis deep learning untuk mengestimasi skor ujian mahasiswa berdasarkan pola gaya hidup mereka.
 
 ## Informasi Dataset
+Data diperoleh dari situs Kaggle melalui tautan https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance.
+
 Dataset yang digunakan merupakan data sintetik yang merepresentasikan 1.000 mahasiswa dengan 16 atribut, seperti umur, jenis kelamin, jam belajar, jam penggunaan media sosial, jam menonton Netflix, part-time job, persentase kehadiran, durasi tidur, kualitas diet, frekuensi olahraga, pendidikan orang tua, kualitas internet, kesehatan mental, partisipasi ekstrakurikuler, dan skor ujian akhir.
 
 ## Pra-pemrosesan Data
